@@ -17,6 +17,6 @@ An independent project focused on FUT Gallery collections, scoring, First Owner 
 
 The project is in technical validation. A public solver and a live price service are not available.
 
-Project domain: **FUTGallery.net**
+Website: [FUTGallery.net](https://futgallery.net/)
 
 FUTGallery.net is not affiliated with or endorsed by EA SPORTS. Product names and trademarks belong to their respective owners.

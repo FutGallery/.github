@@ -31,3 +31,5 @@ These values can differ. Expected sale proceeds are estimates, not coins already
 A route found among a limited set of candidates describes that search. It does not prove that no cheaper route exists elsewhere. A meaningful comparison identifies its covered card versions, market, price snapshot and search limits.
 
 This note explains terminology. It contains no current card quotes or purchase recommendations.
+
+Project website: [FUTGallery.net](https://futgallery.net/).
