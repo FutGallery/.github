@@ -32,4 +32,4 @@ A route found among a limited set of candidates describes that search. It does n
 
 This note explains terminology. It contains no current card quotes or purchase recommendations.
 
-Project website: [FUTGallery.net](https://futgallery.net/).
+Read the [Gallery route-cost guide](https://futgallery.net/guides/gallery-costs/) on [FUTGallery.net](https://futgallery.net/).

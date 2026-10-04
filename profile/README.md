@@ -2,6 +2,8 @@
 
 An independent project focused on FUT Gallery collections, scoring, First Owner cards and token rewards.
 
+Read the [FUTGallery.net guides](https://futgallery.net/).
+
 ## Project topics
 
 - Gallery set requirements and grading
@@ -11,11 +13,11 @@ An independent project focused on FUT Gallery collections, scoring, First Owner 
 
 ## Notes
 
-[Understanding card versions, reference prices and route costs](https://github.com/FutGallery/.github/blob/main/notes/reference-prices.md)
+[Understanding card versions, reference prices and route costs](https://futgallery.net/guides/gallery-costs/)
 
 ## Current status
 
-The project is in technical validation. A public solver and a live price service are not available.
+The website provides explanatory guides. Data tools remain in technical validation; a public solver and a live price service are not available.
 
 Website: [FUTGallery.net](https://futgallery.net/)
 
